@@ -1,0 +1,1 @@
+// struct Entity(u64);
